@@ -12,7 +12,7 @@ import java.util.Map;
 
 @Controller
 @EnableAutoConfiguration
-public class viewController {
+public class ViewController {
 
     @ResponseBody
     @RequestMapping("/view/exceptionHandler")
